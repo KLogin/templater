@@ -2,7 +2,7 @@
 
 Util to create text by template
 
-You can use this simple script as you whant, but generally usage lookse like this:
+You can use this simple script as you want, but generally usage lookse like this:
 
 ## 1. Write your template
 Write your template in file **template.py**
@@ -22,14 +22,14 @@ data = [
     ['agent', 'updated_at']
 ]
 ```
-You can add as much data as you whant, but be cearful order is metter.
+You can add as much data as you want, but be cearful order is matter.
 
 ## 3. Run script
 ```cmd
 python generate.py > tmp.txt
 ```
 
-## 4. Fin
+## 4. Final
 Check output file **tmp.txt**
 
 ```sql
